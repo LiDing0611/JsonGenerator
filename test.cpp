@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-#include "json-writer.h"
+#include "json-generator.h"
 using namespace std;
 
 int main()
